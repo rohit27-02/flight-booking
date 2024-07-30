@@ -60,11 +60,11 @@ firebase deploy --only functions
 ![App Screenshot](https://i.postimg.cc/d05sRxdN/Flight-booking-App.png
 )
 
-### Verify OTP page
+### Edit Flight
 ![App Screenshot](https://i.postimg.cc/tTf9wnBh/Flight-booking-App-1.png
 )
 
-### verification success page
+### Subscribe modal
 ![App Screenshot](https://i.postimg.cc/G29cXxxL/Flight-booking-App-2.png)
 
 
