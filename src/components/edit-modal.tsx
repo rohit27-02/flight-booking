@@ -32,7 +32,7 @@ const EditModal: React.FC<EditModalProps> = ({ isOpen, onClose, onSubmit, flight
 
     return (
         <div className="fixed inset-0 flex items-center justify-center z-50">
-            <div className="bg-white p-6 rounded-lg shadow-lg w-96">
+            <div className="bg-white p-6 border border-black rounded-lg shadow-lg w-96">
                 <h2 className="text-xl font-bold mb-4">Edit Flight</h2>
                 <div className="space-y-4">
                     <input type="text" name="airline" value={formData.airline} onChange={handleChange} className="w-full p-2 border border-gray-300 rounded" placeholder="Airline" />
